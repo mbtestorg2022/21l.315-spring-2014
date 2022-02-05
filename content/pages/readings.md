@@ -26,18 +26,185 @@ Supplemental Reading
 
 Verongos, Helen T. "[Doris Lessing, Author Who Swept Aside Convention, Is Dead at 94](http://www.nytimes.com/2013/11/18/books/doris-lessing-novelist-who-won-2007-nobel-is-dead-at-94.html?_r=0&adxnnl=1&adxnnlx=1421427813-oXWokNZNmIzydrJFO/OMRg)." _New York Times_, November 17, 2013. Accessed January 16, 2015.
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Nadine Gordimer | \[GN\] pp. 1–101. |
-| 3 | Nadine Gordimer (cont.) | \[GN\] pp. 102–60. |
-| 4 | Toni Morrison | \[MT\] pp. 3–111. |
-| 5 | Toni Morrison (cont.) | \[MT\] pp. 112–216. |
-| 6 | Toni Morrison (cont.) | \[MT\] pp. 217–337. |
-| 7 | Herta Müller | \[MH\] pp. 1–113. |
-| 8 | Herta Müller (cont.) | \[MH\] pp. 113–230. |
-| 9 | Doris Lessing's stories |  {{< br >}}{{< br >}} "A Mild Attack of Locusts." {{< br >}}{{< br >}} "Myself as Sportsman." {{< br >}}{{< br >}} "The Stare." {{< br >}}{{< br >}}  |
-| 10 | Alice Munro | \[MA\] pp. 3–119. |
-| 11 | Alice Munro (cont.) | \[MA\] pp. 120–218. |
-| 12 | Alice Munro (cont.) | \[MA\] pp. 219–323. |
-| 13 | Submission of final essay |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Nadine Gordimer
+{{< tdclose >}}
+{{< tdopen >}}
+\[GN\] pp. 1–101.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Nadine Gordimer (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+\[GN\] pp. 102–60.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Toni Morrison
+{{< tdclose >}}
+{{< tdopen >}}
+\[MT\] pp. 3–111.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Toni Morrison (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+\[MT\] pp. 112–216.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Toni Morrison (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+\[MT\] pp. 217–337.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Herta Müller
+{{< tdclose >}}
+{{< tdopen >}}
+\[MH\] pp. 1–113.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Herta Müller (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+\[MH\] pp. 113–230.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Doris Lessing's stories
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"A Mild Attack of Locusts."
+
+"Myself as Sportsman."
+
+"The Stare."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Alice Munro
+{{< tdclose >}}
+{{< tdopen >}}
+\[MA\] pp. 3–119.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Alice Munro (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+\[MA\] pp. 120–218.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Alice Munro (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+\[MA\] pp. 219–323.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Submission of final essay
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
