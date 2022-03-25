@@ -20,7 +20,7 @@ Topics for the response papers will come from your own observations of the texts
 
 *   [MLA Citation Form (PDF)]({{< baseurl >}}/resources/mit21l_315s14_mla_citation)
 *   [Writing FAQs (PDF)]({{< baseurl >}}/resources/mit21l_315s14_writing_faq)
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Brief Guide to Writing the English Paper" from the Harvard Writing Center (PDF)](http://writingproject.fas.harvard.edu/files/hwp/files/bg_writing_english.pdf)
+*   ["A Brief Guide to Writing the English Paper" from the Harvard Writing Center (PDF)](http://writingproject.fas.harvard.edu/files/hwp/files/bg_writing_english.pdf)
 
 Additional Resources for Writing
 --------------------------------
